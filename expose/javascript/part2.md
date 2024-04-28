@@ -21,7 +21,7 @@
 "console will return the length of the prices array, in this case, 3"
 ## 11
 "the function will return the discounted prices array, but the discountedPrice variable is declared as a const inside the for loop, so it will be redeclared every time the loop runs. So, the discountedPrice variable should be declared outside the loop with the tag let."
-## [JavaScript for 12](/expose/pipeline/part2-question12.js)
+## 12
 ```
 A. console.log(student.name);
 B. console.log(student["Grad Year"]);
@@ -77,7 +77,7 @@ E. console.log(student.courseLoad[0]);
 "=== is the strictly equals operator, it compares the items on both sides and takes into account what type of variable it is, if they are different it results in false, if they are the same type, and are equal, it returns true"
 ## [JavaScript for 16](/expose/pipeline/part2-question16.js)
 "Given the above Object, write a for...in loop that will iterate through it and print out the value of the property if the property starts with the letter r, or if the value of that property is an odd number."
-## [JavaScript for 17](/expose/pipeline/part2-question17.js)
+## 17
 "the function will return [2,4,6] becuase it takes the input array and applies the callback function to it. In this case, the callback function is the doSomething() function from line 9, that doubles the value of any number taken as input."
 ## [JavaScript for 18](/expose/pipeline/part2-question18.js)
 "printTime is a function that prints the current local time, and it is called every 1000 miliseconds by the setInterval function"
