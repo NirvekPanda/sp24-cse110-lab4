@@ -1,7 +1,7 @@
 ## [JavaScript for 1](/expose/pipeline/part1-question1.js)
 "values added: 20"
 ## [JavaScript for 2](/expose/pipeline/part1-question2.js)
-"final result: added: 20"
+"final result: 20"
 ## [JavaScript for 3](/expose/pipeline/part1-question3.js)
 "values added: 20"
 ## [JavaScript for 4](/expose/pipeline/part1-question4.js)
